@@ -1,0 +1,16 @@
+# Core LangGraph dependencies
+langgraph>=0.2.0
+langchain-core>=0.3.0
+
+# LangGraph CLI for development
+langgraph-cli>=0.1.0
+
+# OpenAI integration (default model provider)
+langchain-openai>=0.2.0
+
+# Optional: Uncomment for other model providers
+# langchain-ollama>=0.1.0          # For Ollama local models
+# langchain-google-genai>=2.0.0    # For Google Gemini
+
+# Standard library dependencies (should be included in Python 3.8+)
+# datetime, os, typing are built-in 

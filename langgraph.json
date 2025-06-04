@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "time_bot": "./app.py:app"
+  },
+  "env": ".env"
+} 
